@@ -1,0 +1,1 @@
+# Brain-Image-Analysis-for-Detection-of-Neural-Disorder--Schizophrenia
